@@ -41,13 +41,12 @@ A multi-tenant OMO platform that unifies POS, mobile ordering, inventory managem
 - Implemented per-route, per-method rate limiting
 - Handled a major Next.js version upgrade and set up the frontend test infrastructure
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinamiyamaKotaro&show_icons=true&theme=default" alt="Kotaro Minamiyama's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinamiyamaKotaro&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinamiyamaKotaro&theme=default" alt="Kotaro Minamiyama's GitHub streak stats" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MinamiyamaKotaro&theme=flat&no-frame=true&row=1" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinamiyamaKotaro&theme=github-compact" alt="Kotaro Minamiyama's contribution activity graph" />
 </p>
