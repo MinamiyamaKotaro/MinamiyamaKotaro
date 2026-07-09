@@ -48,9 +48,11 @@
 等々
 
 ### 個人開発
-<div align="center">
+<br>
+<div align="center" margin_bottom=20px>
 <img width="1000" height="319" alt="image" src="https://github.com/user-attachments/assets/74a6d38d-97c1-47b4-8dd5-f24a57f7b952" />
 </div>
+<br>
 POS レジ・モバイルオーダー・在庫管理・シフト管理を統合したマルチテナント OMO プラットフォーム（個人開発・非公開リポジトリ）。
 
 - システム要件から詳細設計、テスト設計まで対応
