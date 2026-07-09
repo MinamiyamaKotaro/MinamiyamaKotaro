@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="Kotaro Minamiyama" src="https://github.com/user-attachments/assets/aec24439-8618-4585-bc3b-f349be6b4cc9"/>
+<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/aec24439-8618-4585-bc3b-f349be6b4cc9&w=100&h=100&fit=cover&mask=circle&bg=white" width="100" height="100" alt="Kotaro Minamiyama" />
 
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
 
