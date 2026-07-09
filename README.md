@@ -1,11 +1,5 @@
 <div align="center">
-<!-- 
-images.weserv.nl APIを使用して、画像を動的に円形に切り抜き、背景を白にしています。
-w=100&h=100 : 幅と高さを100pxに指定
-mask=circle : 円形に切り抜き
-bg=white    : 余白や透過部分の背景色を白に指定
--->
-<img src="https://images.weserv.nl/?url=“ width="150" height="150" alt="Kotaro Minamiyama" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/48ac2eb8-5154-45fb-bf10-f533ba7aacff" />
 </div>
 
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
