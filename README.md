@@ -1,7 +1,3 @@
-<div align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/32679b1f-e9e3-4dcd-83b7-5e854947081f" />
-</div>
-
 ## ☺️ 自己紹介
 大規模な基幹系システムの構築で培った堅牢な設計力と、Rust や Next.js といったモダンな技術スタックを用いたマイクロサービス基盤の構築力を兼ね備えています。バックエンドからフロントエンド、システムの可観測性（Observability）に至るまで、マルチテナントSaaSの設計・実装をフルサイクルで主導できる点が強みです。
 
