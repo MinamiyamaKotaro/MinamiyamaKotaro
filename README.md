@@ -2,13 +2,7 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/32679b1f-e9e3-4dcd-83b7-5e854947081f" />
 </div>
 
-## 😄　Nice to meet you
-バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
-
 ## 🔭 About Me
-...
-
-
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
 
 ## 🔭 About Me
