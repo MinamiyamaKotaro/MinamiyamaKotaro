@@ -1,7 +1,3 @@
-<div align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/32679b1f-e9e3-4dcd-83b7-5e854947081f" />
-</div>
-
 ## ☺️ About Me
 I combine robust system design expertise—cultivated through building large-scale mission-critical enterprise systems—with hands-on implementation skills for modern microservice platforms using Rust and Next.js.
 
