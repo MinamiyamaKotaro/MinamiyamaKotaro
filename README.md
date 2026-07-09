@@ -1,4 +1,12 @@
-<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/aec24439-8618-4585-bc3b-f349be6b4cc9&w=100&h=100&fit=cover&mask=circle&bg=white" width="100" height="100" alt="Kotaro Minamiyama" />
+<div align="center">
+<!-- 
+images.weserv.nl APIを使用して、画像を動的に円形に切り抜き、背景を白にしています。
+w=100&h=100 : 幅と高さを100pxに指定
+mask=circle : 円形に切り抜き
+bg=white    : 余白や透過部分の背景色を白に指定
+-->
+<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/aec24439-8618-4585-bc3b-f349be6b4cc9“ width="150" height="150" alt="Kotaro Minamiyama" />
+</div>
 
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
 
