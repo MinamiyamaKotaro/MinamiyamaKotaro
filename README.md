@@ -5,7 +5,7 @@ w=100&h=100 : 幅と高さを100pxに指定
 mask=circle : 円形に切り抜き
 bg=white    : 余白や透過部分の背景色を白に指定
 -->
-<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/aec24439-8618-4585-bc3b-f349be6b4cc9“ width="150" height="150" alt="Kotaro Minamiyama" />
+<img src="https://images.weserv.nl/?url=“ width="150" height="150" alt="Kotaro Minamiyama" />
 </div>
 
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
