@@ -1,6 +1,5 @@
 <div align="center">
-
-<img width="150" height="150 style="background-color: transparent;" alt="image" src="https://github.com/user-attachments/assets/5390a26b-5645-4048-8bfe-4f1cccb1a875" />
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/32679b1f-e9e3-4dcd-83b7-5e854947081f" />
 </div>
 
 バックエンド・フロントエンド問わず、マルチテナント SaaS のマイクロサービス基盤を設計・実装しています。
