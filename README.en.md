@@ -55,9 +55,3 @@ Extensive experience building large-scale systems in mission-critical environmen
 - **Retail / Distribution:** Built financial accounting systems for a major convenience store chain
 - **Manufacturing:** Built design document management systems for a global bearing manufacturer
 - and more
-
-## 📊 Activity
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinamiyamaKotaro&theme=default" alt="Kotaro Minamiyama's GitHub streak stats" />
-</p>
