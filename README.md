@@ -49,7 +49,7 @@
 
 ### 個人開発
 <br>
-<div align="center" margin_bottom=20px>
+<div align="center">
 <img width="1000" height="319" alt="image" src="https://github.com/user-attachments/assets/74a6d38d-97c1-47b4-8dd5-f24a57f7b952" />
 </div>
 <br>
