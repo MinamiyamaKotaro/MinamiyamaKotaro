@@ -39,7 +39,7 @@
 等々
 
 ### 個人開発
-#### EXI(システムコード名)
+#### EXI
 POS レジ・モバイルオーダー・在庫管理・シフト管理を統合したマルチテナント OMO プラットフォーム（個人開発・非公開リポジトリ）。
 
 - API Gateway を Java から Rust（Axum）へ全面刷新し、OpenTelemetry トレース収集と Prometheus メトリクスを実装
