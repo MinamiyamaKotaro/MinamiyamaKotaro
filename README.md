@@ -18,7 +18,7 @@
 
 **Frontend**
 - TypeScript
-- Next.js / Node.js
+- Next.js / Nuxt.js / React.js
 
 **Data**
 - Neo4j
