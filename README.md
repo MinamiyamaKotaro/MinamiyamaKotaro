@@ -1,4 +1,4 @@
-# 南山 幸太郎 (Kotaro Minamiyama) 👋
+# 南山 浩太朗 (Kotaro Minamiyama) 👋
 
 <div align="right">
   <strong>日本語</strong> | <a href="README.en.md">English</a>
