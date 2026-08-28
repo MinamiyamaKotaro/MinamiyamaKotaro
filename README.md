@@ -31,7 +31,7 @@
 
 ### 2. 🦀 低レイヤー・データ構造・パーサー / 差分エンジン開発（Rust OSS）
 - **[`xlsxparser`](https://github.com/MinamiyamaKotaro/xlsxparser)**: Rust製の超軽量・超高速な `.xlsx` (OOXML) ストリーミングパーサー。日本の業務システム特有の「巨大方眼紙Excel」や「複雑な結合セル」に対しても、最小限のメモリフットプリントで高速処理できるよう設計。
-- ** [`exceldiff`](https://github.com/MinamiyamaKotaro/exceldiff)**: セル配置崩れやオーバーフロー（はみ出し）検知機能を備えた表構造差分比較・Markdown変換CLIツール。Excel設計書やデータのバージョン管理・CI自動化を支援。
+- **[`exceldiff`](https://github.com/MinamiyamaKotaro/exceldiff)**: セル配置崩れやオーバーフロー（はみ出し）検知機能を備えた表構造差分比較・Markdown変換CLIツール。Excel設計書やデータのバージョン管理・CI自動化を支援。
 
 ### 3. ☕ エンタープライズ Java & 大規模高負荷耐性チューニング（Java 8 〜 25）
 - **10年以上のJava基幹システム実績**: Struts/Seasar2等のレガシーから Spring Boot、そして **最新の Java 25** まで、エコシステムと内部構造に精通。
