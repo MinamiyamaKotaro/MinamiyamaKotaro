@@ -31,7 +31,7 @@
 
 ### 2. 🦀 Low-Level Systems & High-Performance Parsers / Tooling (Rust OSS)
 - **[`xlsxparser`](https://github.com/MinamiyamaKotaro/xlsxparser)**: Ultra-lightweight, high-performance `.xlsx` (OOXML) streaming parser in Rust. Specifically engineered to handle massive spreadsheets, complex merged cells, and irregular layouts with minimal memory footprint.
-- **`exceldiff` / [`extmd`](https://github.com/MinamiyamaKotaro/extmd)**: High-precision Excel diff engine & Markdown conversion CLI with layout overflow detection. Eliminates data degradation in tabular versioning and automates CI workflows.
+- **[`exceldiff`](https://github.com/MinamiyamaKotaro/exceldiff)**: High-precision Excel diff engine & Markdown conversion CLI with layout overflow detection. Eliminates data degradation in tabular versioning and automates CI workflows.
 
 ### 3. ☕ Enterprise Backend & High-Load Performance Tuning (Java 8–25)
 - **10+ Years Enterprise Java**: Deep mastery spanning from legacy enterprise systems (Struts/Seasar2) to modern **Spring Boot** and the latest **Java 25**.
