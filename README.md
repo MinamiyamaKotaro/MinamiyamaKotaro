@@ -84,15 +84,3 @@
 ![Grafana](https://img.shields.io/badge/Grafana%20(Prometheus%2FLoki%2FTempo)-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![k6](https://img.shields.io/badge/k6%20%2F%20JMeter-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MinamiyamaKotaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MinamiyamaKotaro's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MinamiyamaKotaro&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinamiyamaKotaro&theme=tokyonight" alt="GitHub Streak" />
-</div>
